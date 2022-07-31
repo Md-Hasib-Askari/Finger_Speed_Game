@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Finger Speed Game</string>
+    <string name="tap_button">Tap Tap!</string>
+    <string name="info_item">Info</string>
+</resources>
